@@ -1,6 +1,6 @@
 # Code Smell Detector
 
-A GitHub Action that automatically detects code smells in Java code using AI-powered analysis.
+A GitHub Action that automatically detects code smells in Java code using AI-powered analysis. (work in progress)
 
 ## Setup
 
